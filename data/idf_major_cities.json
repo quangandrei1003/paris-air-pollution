@@ -1,0 +1,266 @@
+[
+    {
+        "City_index": 0,
+        "Latitude": "48.8567",
+        "Longitude": "2.3522",
+        "City": "Paris"
+    },
+    {
+        "City_index": 28,
+        "Latitude": "48.8352",
+        "Longitude": "2.2409",
+        "City": "Boulogne-Billancourt"
+    },
+    {
+        "City_index": 33,
+        "Latitude": "48.9356",
+        "Longitude": "2.3539",
+        "City": "Saint-Denis"
+    },
+    {
+        "City_index": 35,
+        "Latitude": "48.8611",
+        "Longitude": "2.4436",
+        "City": "Montreuil"
+    },
+    {
+        "City_index": 36,
+        "Latitude": "48.9500",
+        "Longitude": "2.2500",
+        "City": "Argenteuil"
+    },
+    {
+        "City_index": 42,
+        "Latitude": "48.8988",
+        "Longitude": "2.1969",
+        "City": "Nanterre"
+    },
+    {
+        "City_index": 43,
+        "Latitude": "48.7875",
+        "Longitude": "2.3928",
+        "City": "Vitry-sur-Seine"
+    },
+    {
+        "City_index": 44,
+        "Latitude": "48.7911",
+        "Longitude": "2.4628",
+        "City": "Créteil"
+    },
+    {
+        "City_index": 46,
+        "Latitude": "48.9131",
+        "Longitude": "2.3831",
+        "City": "Aubervilliers"
+    },
+    {
+        "City_index": 47,
+        "Latitude": "48.9386",
+        "Longitude": "2.4906",
+        "City": "Aulnay-sous-Bois"
+    },
+    {
+        "City_index": 49,
+        "Latitude": "48.9236",
+        "Longitude": "2.2522",
+        "City": "Colombes"
+    },
+    {
+        "City_index": 50,
+        "Latitude": "48.8053",
+        "Longitude": "2.1350",
+        "City": "Versailles"
+    },
+    {
+        "City_index": 51,
+        "Latitude": "48.8978",
+        "Longitude": "2.2531",
+        "City": "Courbevoic"
+    },
+    {
+        "City_index": 52,
+        "Latitude": "48.8760",
+        "Longitude": "2.1810",
+        "City": "Rueil-Malmaison"
+    },
+    {
+        "City_index": 54,
+        "Latitude": "48.8172",
+        "Longitude": "2.5156",
+        "City": "Champigny-sur-Marne"
+    },
+    {
+        "City_index": 56,
+        "Latitude": "48.7994",
+        "Longitude": "2.4997",
+        "City": "Saint-Maur-des-Fossés"
+    },
+    {
+        "City_index": 60,
+        "Latitude": "48.9300",
+        "Longitude": "2.4500",
+        "City": "Drancy"
+    },
+    {
+        "City_index": 64,
+        "Latitude": "48.8239",
+        "Longitude": "2.2700",
+        "City": "Issy-les-Moulineaux"
+    },
+    {
+        "City_index": 65,
+        "Latitude": "48.8478",
+        "Longitude": "2.5528",
+        "City": "Noisy-le-Grand"
+    },
+    {
+        "City_index": 67,
+        "Latitude": "49.0361",
+        "Longitude": "2.0631",
+        "City": "Cergy"
+    },
+    {
+        "City_index": 68,
+        "Latitude": "48.8950",
+        "Longitude": "2.2872",
+        "City": "Levallois-Perret"
+    },
+    {
+        "City_index": 71,
+        "Latitude": "48.8078",
+        "Longitude": "2.3747",
+        "City": "Ivry-sur-Seine"
+    },
+    {
+        "City_index": 72,
+        "Latitude": "48.9044",
+        "Longitude": "2.3064",
+        "City": "Clichy"
+    },
+    {
+        "City_index": 74,
+        "Latitude": "48.7539",
+        "Longitude": "2.2975",
+        "City": "Antony"
+    },
+    {
+        "City_index": 77,
+        "Latitude": "48.8881",
+        "Longitude": "2.2686",
+        "City": "Neuilly-sur-Seine"
+    },
+    {
+        "City_index": 78,
+        "Latitude": "48.8966",
+        "Longitude": "2.4017",
+        "City": "Pantin"
+    },
+    {
+        "City_index": 79,
+        "Latitude": "48.9956",
+        "Longitude": "2.3808",
+        "City": "Sarcelles"
+    },
+    {
+        "City_index": 81,
+        "Latitude": "48.8710",
+        "Longitude": "2.3850",
+        "City": "Bellevue"
+    },
+    {
+        "City_index": 82,
+        "Latitude": "48.9387",
+        "Longitude": "2.4614",
+        "City": "Le Blanc-Mesnil"
+    },
+    {
+        "City_index": 85,
+        "Latitude": "48.8058",
+        "Longitude": "2.4378",
+        "City": "Maisons-Alfort"
+    },
+    {
+        "City_index": 86,
+        "Latitude": "48.9603",
+        "Longitude": "2.8883",
+        "City": "Meaux"
+    },
+    {
+        "City_index": 87,
+        "Latitude": "48.7919",
+        "Longitude": "2.3636",
+        "City": "Villejuif"
+    },
+    {
+        "City_index": 88,
+        "Latitude": "48.8833",
+        "Longitude": "2.6000",
+        "City": "Chelles"
+    },
+    {
+        "City_index": 89,
+        "Latitude": "48.9553",
+        "Longitude": "2.3092",
+        "City": "Épinay-sur-Seine"
+    },
+    {
+        "City_index": 90,
+        "Latitude": "48.9022",
+        "Longitude": "2.4828",
+        "City": "Bondy"
+    },
+    {
+        "City_index": 91,
+        "Latitude": "48.9106",
+        "Longitude": "2.4397",
+        "City": "Bobigny"
+    },
+    {
+        "City_index": 94,
+        "Latitude": "48.6239",
+        "Longitude": "2.4294",
+        "City": "Évry"
+    },
+    {
+        "City_index": 95,
+        "Latitude": "48.8014",
+        "Longitude": "2.2628",
+        "City": "Clamart"
+    },
+    {
+        "City_index": 97,
+        "Latitude": "48.9372",
+        "Longitude": "2.1644",
+        "City": "Sartrouville"
+    },
+    {
+        "City_index": 98,
+        "Latitude": "48.8517",
+        "Longitude": "2.4772",
+        "City": "Fontenay-sous-Bois"
+    },
+    {
+        "City_index": 101,
+        "Latitude": "48.9333",
+        "Longitude": "2.5333",
+        "City": "Sevran"
+    },
+    {
+        "City_index": 102,
+        "Latitude": "48.6139",
+        "Longitude": "2.4820",
+        "City": "Corbeil-Essonnes"
+    },
+    {
+        "City_index": 103,
+        "Latitude": "48.9123",
+        "Longitude": "2.3342",
+        "City": "Saint-Ouen"
+    },
+    {
+        "City_index": 104,
+        "Latitude": "48.7309",
+        "Longitude": "2.2713",
+        "City": "Massy"
+    }
+]
