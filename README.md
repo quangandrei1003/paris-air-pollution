@@ -1,2 +1,2 @@
 # france-air-pollution
-France air pollution data pipeline 
+Paris air pollution data pipeline 
