@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  app:
+    platform: linux/amd64
+    image: quangcongnguyen1003/quangnc-air-pollution
+    environment:
+      - API_KEY=${API_KEY}
+    # build: .
+    build:
+      dockerfile: ./Dockerfile
+      labels:
+        # workaround around a docker-compose bug when image is also used by docker run (https://github.com/docker/compose/issues/10162)
+        com.docker.compose.container-number: "1"
