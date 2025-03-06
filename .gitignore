@@ -6,3 +6,5 @@ flows/__pycache__/
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+.DS_Store

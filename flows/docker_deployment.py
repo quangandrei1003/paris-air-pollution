@@ -1,6 +1,6 @@
 from prefect.deployments import Deployment
-from prefect.infrastructure.docker import DockerContainer
-from prefect.orion.schemas.schedules import CronSchedule
+from prefect.docker import DockerContainer
+from prefect.schedules import CronSchedule
 from current_parameterized_flow import etl_current_data_main_flow, etl_gcs_to_bq
 
 docker_block = DockerContainer.load("airpollution")
@@ -21,4 +21,3 @@ bq_dep = Deployment.build_from_flow(
 if __name__ == "__main__":
     hourly_dep.apply()
     bq_dep.apply()
-
