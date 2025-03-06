@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: staging_cities
+    description: A table that stores Paris regions and cities. 
+    columns:
+      - name: id
+        tests:
+          - unique
+          - not_null
+
+  - name: staging_air_pollution
+    description: Staging air pollution data.
+    columns:
+      - name: city_id
+        tests:
+          - not_null
+          - relationships:
+              field: id
+              to: ref('cities')
+      - name: pollution_quality
+        tests:
+          - accepted_values:
+              values:
+                - 'Very_Poor'
+                - 'Poor'
+                - 'Moderate'
+                - 'Fair'
+                - 'Good'
+    
+  - name: fact_pollution
+    description: fact pollution table
+  
+  - name: agg_pollution 
+    description: mart air pollution aggregate table

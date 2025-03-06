@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: source
+    database: paris-air-pollution-quangnc
+    schema: raw 
+    description: air pollution data source from BigQuery. 
+    tables:
+      - name: airpollution 
+        columns:
+          - name: City_index 
+            tests:
+              - not_null 
+      - name: cities
+        columns:
+          - name: City_index
+            tests:
+              - not_null
